@@ -3,7 +3,7 @@
   <img src="./meme.jpg">
 </div>
 
-[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=iceend)](https://github.com/IceEnd)
+[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=BattleBottle)](https://github.com/IceEnd)
 
 <!--
 **BottlePeng/bottlepeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
