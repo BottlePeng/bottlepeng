@@ -1,19 +1,12 @@
 
 <div align=center>
   <img src="./meme.jpg">
+  <a class="btn" href="./index.html">好玩的</a>
 </div>
 
-<!--
-**BottlePeng/bottlepeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<style>
+  .btn {
+    color: #00d9ffff;
+    text-decoration: underline;
+  }
+</style>
